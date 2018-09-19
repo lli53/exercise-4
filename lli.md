@@ -32,7 +32,7 @@ Baroque instruments included some instruments from the earlier periods (e.g., th
 * Johannes Matthias Sperger (1750–1812)
 
 #### More information
-Feel free to check the Wikipedia page to learn more about the Classical period music! A [link](https://en.wikipedia.org/wiki/Baroque_music).
+Feel free to check the Wikipedia page to learn more about [the Baroque music!](https://en.wikipedia.org/wiki/Baroque_music).
 
 
 ### Classical music (1750-1820)
@@ -57,7 +57,7 @@ While some Baroque instruments fell into disuse (e.g., the theorbo and rackett),
 
 
 #### More information
-Feel free to check the Wikipedia page to learn more about the Classical period music! A [link](https://en.wikipedia.org/wiki/Classical_period_(music)).
+Feel free to check the Wikipedia page to learn more about [the Classical period music!](https://en.wikipedia.org/wiki/Classical_period_(music)).
 
 
 
@@ -86,4 +86,4 @@ New woodwind instruments were added, such as the contrabassoon, bass clarinet an
 * Te Deum (1688–1698)
 
 #### More information
-Feel free to check the Wikipedia page to learn more about the Classical period music! A [link](https://en.wikipedia.org/wiki/Romantic_music).
+Feel free to check the Wikipedia page to learn more about the [Romantic music!](https://en.wikipedia.org/wiki/Romantic_music).
