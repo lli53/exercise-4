@@ -1,7 +1,6 @@
 # Classical Music
 
 Name : Lingling Li
-
 Assignment : In-class exercise 4: Information Architecture and Markdown
 
 ## Introduction to Classical Music
@@ -11,7 +10,7 @@ Classical music is art music produced or rooted in the traditions of Western cul
 
 ### Baroque Period (1600-1750)
 	
-	
+
 #### Brief introduction
 The Baroque period saw the creation of common-practice tonality, an approach to writing music in which a song or piece is written in a particular key; this kind of arrangement has continued to be used in almost all Western popular music. During the Baroque era, professional musicians were expected to be accomplished improvisers of both solo melodic lines and accompaniment parts.
 
@@ -32,6 +31,8 @@ Baroque instruments included some instruments from the earlier periods (e.g., th
 * John Stafford Smith (1750–1836)
 * Johannes Matthias Sperger (1750–1812)
 
+#### More information
+Feel free to check the Wikipedia page to learn more about the Classical period music! A [link](https://en.wikipedia.org/wiki/Baroque_music).
 
 
 ### Classical music (1750-1820)
@@ -53,6 +54,11 @@ While some Baroque instruments fell into disuse (e.g., the theorbo and rackett),
 * Ludwig Wenzel Lachnith (1746–1820)
 * Johann Friedrich Peter (1746–1813)
 * Giovanni Punto, or Jan Václav Stich (1746–1803)
+
+
+#### More information
+Feel free to check the Wikipedia page to learn more about the Classical period music! A [link](https://en.wikipedia.org/wiki/Classical_period_(music)).
+
 
 
 
@@ -79,3 +85,5 @@ New woodwind instruments were added, such as the contrabassoon, bass clarinet an
 * Marc-Antoine Charpentier (1643–1704)
 * Te Deum (1688–1698)
 
+#### More information
+Feel free to check the Wikipedia page to learn more about the Classical period music! A [link](https://en.wikipedia.org/wiki/Romantic_music).
